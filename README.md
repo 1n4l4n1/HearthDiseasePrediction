@@ -55,22 +55,22 @@ These models were trained on the same classification problem and their performan
 
 Workflow
 Heart Disease Dataset
-        ↓
+        -
 Data Exploration
-        ↓
+        -
 Data Preprocessing
-        ↓
+        -
 Train-Test Split
-        ↓
+        -
 Feature Scaling
-        ↓
+        -
 Model Training
-        ↓
+        -
 Random Forest
 AdaBoost
 Gradient Boosting
 Voting Classifier
-        ↓
+        -
 Model Evaluation
 Technologies
 Python
